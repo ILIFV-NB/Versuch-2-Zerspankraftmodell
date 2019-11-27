@@ -51,34 +51,27 @@ style="width: 100%; "
 
 
 <br/>
+~~**Tragen Sie hier bitte hintereinander alle Parameter zu den Versuchen 5 - 12 ein!**~~
 
-Versuch 5: Tragen Sie hier bitte hintereinander alle Parameter zu Versuch 5 ein!
-
-(vc - n)
-
-[[___ ___]]
-
-<br/>
-
-Versuch 6: Tragen Sie hier bitte hintereinander alle Parameter zu Versuch 6 ein!
-
-(vc - n)
+**Versuch 5:** (vc - n)
 
 [[___ ___]]
 
 <br/>
 
-Versuch 7: Tragen Sie hier bitte hintereinander alle Parameter zu Versuch 7 ein!
-
-(vc - n)
+**Versuch 6:** (vc - n)
 
 [[___ ___]]
 
 <br/>
 
-Versuch 8: Tragen Sie hier bitte hintereinander alle Parameter zu Versuch 8 ein!
+**Versuch 7:** (vc - n)
 
-(vc - n)
+[[___ ___]]
+
+<br/>
+
+**Versuch 8:** (vc - n)
 
 [[___ ___]]
 
@@ -87,25 +80,25 @@ Versuch 8: Tragen Sie hier bitte hintereinander alle Parameter zu Versuch 8 ein!
 ---------------
 
 
-Versuch 9: Tragen Sie hier bitte die Schnitttiefe (ap) zu Versuch 9 ein!
+**Versuch 9:** (ap)
 
 [[___ ___]]
 
 <br/>
 
-Versuch 10: Tragen Sie hier bitte die Schnitttiefe (ap) zu Versuch 10 ein!
+**Versuch 10:** (ap)
 
 [[___ ___]]
 
 <br/>
 
-Versuch 11: Tragen Sie hier bitte die Schnitttiefe (ap) zu Versuch 11 ein!
+**Versuch 11:** (ap)
 
 [[___ ___]]
 
 <br/>
 
-Versuch 12: Tragen Sie hier bitte die Schnitttiefe (ap) zu Versuch 12 ein!
+**Versuch 12:** (ap)
 
 [[___ ___]]
 
@@ -141,85 +134,85 @@ style="width: 100%; "
 
 <br/>
 
-**Tragen Sie hier bitte hintereinander zunächst alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+~~**Tragen Sie hier bitte hintereinander zunächst alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 1 -12 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**~~
 
-Versuch 1: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
-
-Versuch 2: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 1:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-Versuch 3: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 2:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-Versuch 4: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
----
-
-Versuch 5: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 3:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-Versuch 6: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
-
-Versuch 7: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
-Versuch 8: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 4:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 ---
-Versuch 9: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+
+**Versuch 5:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-Versuch 10: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 6:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-Versuch 11: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 7:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+**Versuch 8:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+---
+**Versuch 9:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-Versuch 12: (**T**: Fc - Fp - Ff) (**E**: Fc - Fp - Ff)
+**Versuch 10:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+
+**Versuch 11:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+
+**Versuch 12:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
