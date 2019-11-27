@@ -17,8 +17,7 @@ narrator: DE FEMALE
 In diesem Versuch sollen die wirkenden Zerspankraftkomponenten experimentell festgestellt und der Einfluss
 verschiedener Zerspanungsparameter analysiert werden. Zudem ist das Zerspankraftmodell (nach Kienzle) zu bewerten.
 
-Der Versuchsaufbau verfügt über eine Kraftmesseinrichtung in Form eines 3-Komponenten-Dynamometers integriert im
-Werkzeughalter. Zu beachten ist hier, dass das Koordinatensystem der Kraftmesseinrichtung nicht dem des
+Der Versuchsaufbau verfügt über eine Kraftmesseinrichtung in Form eines 3-Komponenten-Dynamometers. Zu beachten ist hier, dass das Koordinatensystem der Kraftmesseinrichtung nicht dem des
 Werkzeugmaschinenkoordinatensystems entspricht!
 
 Berechnen Sie für Ihre Technologieparameter die theoretisch
