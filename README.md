@@ -135,83 +135,139 @@ style="width: 100%; "
 
 ~~**Tragen Sie hier bitte hintereinander zunächst alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 1 -12 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**~~
 
-**Versuch 1:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 1.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 1.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+**Versuch 2.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 2.2:**  (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-**Versuch 2:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 3.1:** (~~Theor.~~: Fc - Fp - Ff)
 
 [[___ ___]]
+
+**Versuch 3.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
 
 <br/>
 
 
-**Versuch 3:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 4.1:** (~~Theor.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-<br/>
-
-
-**Versuch 4:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 4.2:**  (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-<br/>
-
----
-
-**Versuch 5:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
-
-**Versuch 6:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
-
-**Versuch 7:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 8:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
 
 <br/>
 
 ---
-**Versuch 9:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+
+**Versuch 5.1:** (~~Theor.~~: Fc - Fp - Ff)
 
 [[___ ___]]
+
+**Versuch 5.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
 
 <br/>
 
 
-**Versuch 10:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 6.1:** (~~Theor.~~: Fc - Fp - Ff)
 
 [[___ ___]]
+
+**Versuch 6.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
 
 <br/>
 
 
-**Versuch 11:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 7.1:** (~~Theor.~~: Fc - Fp - Ff)
 
 [[___ ___]]
+
+**Versuch 7.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+**Versuch 8.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 8.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+---
+**Versuch 9.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 9.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
 
 <br/>
 
 
-**Versuch 12:** (~~Theor.~~: Fc - Fp - Ff) (~~Exp.~~: Fc - Fp - Ff)
+**Versuch 10.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 10.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+
+**Versuch 11.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 11.2:**  (~~Exp.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+
+**Versuch 12.1:** (~~Theor.~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+**Versuch 12.2:**  (~~Exp.~~: Fc - Fp - Ff)
 
 [[___ ___]]
