@@ -52,25 +52,25 @@ style="width: 100%; "
 <br/>
 ~~**Tragen Sie hier bitte hintereinander alle Parameter zu den Versuchen 5 - 12 ein!**~~
 
-**Versuch 5:** (vc - n)
+**Versuch 5:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 6:** (vc - n)
+**Versuch 6:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 7:** (vc - n)
+**Versuch 7:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 8:** (vc - n)
+**Versuch 8:** (vc - ap - f - n)
 
 [[___ ___]]
 
@@ -79,25 +79,25 @@ style="width: 100%; "
 ---------------
 
 
-**Versuch 9:** (ap)
+**Versuch 9:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 10:** (ap)
+**Versuch 10:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 11:** (ap)
+**Versuch 11:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 12:** (ap)
+**Versuch 12:** (vc - ap - f - n)
 
 [[___ ___]]
 
