@@ -4,9 +4,11 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
-language: de_DE
+language: de
+
+comment: Versuch 2: Theoretisch auftretende Zerspankraftkomponenten vs. Praxis
 
 narrator: DE FEMALE
 
@@ -114,7 +116,7 @@ style="width: 100%; "
 -->
 | | **Zerspankraft-<br/> komponenten** | | | | | |
 | | Schnittkraft **Fc** in N  | | Passivkraft **Fp** in N | | Vorschubkraft **Ff** in N | |
-|**Versuch** |theoretisch |experim. |theoretisch |experim. |theoretisch |experim. |
+|**Versuch** |theoretisch |experimentell |theoretisch |experimentell |theoretisch |experimentell |
 | | | | | | | |
 |**1**| | | | | | |
 |**2**| | | | | | |
@@ -133,7 +135,7 @@ style="width: 100%; "
 
 <br/>
 
-~~**Tragen Sie hier bitte hintereinander zunächst alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 1 -12 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**~~
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 1 -12 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
 
 **Versuch 1.1:** (~~Theor.~~: Fc - Fp - Ff)
 
