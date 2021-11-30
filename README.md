@@ -38,75 +38,101 @@ style="font-size: 14px; border-color: black; width: 100%; margin: 0.25em 1;"
 <!--
 style="width: 100%; "
 -->
-| | **Parameter** | | | |
+| **Parameter** |
 | | Schnitt- <br/> geschw. | Schnitt- <br/> tiefe | Vorschub | Drehzahl|
 |**Versuch** |**vc** $[m/min]$ |**ap** $[mm]$ |**f** $[mm/U]$| **n** $[U/min]$ |
 | | | | | |
-|**5**| | $\color{lightgrey} konstant$ |$\color{lightgrey} konstant$ | |
-|**6**| |$\color{lightgrey} konstant$ |$\color{lightgrey} konstant$ | |
-|**7**| | $\color{lightgrey} konstant$|$\color{lightgrey} konstant$ | |
-|**8**| | $\color{lightgrey} konstant$|$\color{lightgrey} konstant$ | |
+|**2.1**|100 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
+|**2.2**|200|$\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
+|**2.3**|300 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
 | | | | | |
-|**9**|$\color{lightgrey} konstant$ | |$\color{lightgrey} konstant$ |$\color{lightgrey} konstant$ |
-|**10**|$\color{lightgrey} konstant$ | |$\color{lightgrey} konstant$ |$\color{lightgrey} konstant$ |
-|**11**| $\color{lightgrey} konstant$| |$\color{lightgrey} konstant$ |$\color{lightgrey} konstant$|
-|**12**| $\color{lightgrey} konstant$| |$\color{lightgrey} konstant$ |$\color{lightgrey} konstant$|
+|**2.4**|$\color{lightgrey} 200$ |0,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
+|**2.5**|$\color{lightgrey} 200$ |1,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
+|**2.6**| $\color{lightgrey} 200$ |1,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
+|**2.7**| $\color{lightgrey} 200$ |2,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
+| | | | | |
+|**2.8**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,1 |$\color{lightgrey} konstant$ |
+|**2.9**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,4 |$\color{lightgrey} konstant$ |
+|**2.10**| $\color{lightgrey} 200$|$\color{lightgrey} 1,0$ | 0,55 |$\color{lightgrey} konstant$|
 
 
 <br/>
-~~**Tragen Sie hier bitte hintereinander alle Parameter zu den Versuchen 5 - 12 ein!**~~
+~~**Tragen Sie hier bitte hintereinander alle Parameter zu den Versuchen 2.1 - 2.10 ein!**~~
+|$\color{red} Überflüssig\ bis\ auf\ n?$ |
 
-**Versuch 5:** (vc - ap - f - n)
+
+**Versuch 2.1:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 6:** (vc - ap - f - n)
+**Versuch 2.2:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 7:** (vc - ap - f - n)
+**Versuch 2.3:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 8:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
 
 ---------------
 
 
-**Versuch 9:** (vc - ap - f - n)
+**Versuch 2.4:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 10:** (vc - ap - f - n)
+**Versuch 2.5:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 11:** (vc - ap - f - n)
+**Versuch 2.6:** (vc - ap - f - n)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 12:** (vc - ap - f - n)
+**Versuch 2.7:** (vc - ap - f - n)
+
+[[___ ___]]
+
+<br/>
+
+
+---------------
+
+
+**Versuch 2.8:** (vc - ap - f - n)
+
+[[___ ___]]
+
+<br/>
+
+**Versuch 2.9:** (vc - ap - f - n)
+
+[[___ ___]]
+
+<br/>
+
+**Versuch 2.10:** (vc - ap - f - n)
 
 [[___ ___]]
 
 
 ## Zerspankraftkomponenten
+
+{{0-1}}
+***
+1/2
 
 <!--
 style="font-size: 14px; width: 100%; margin: 0.25em 1;"
@@ -116,80 +142,70 @@ style="font-size: 14px; width: 100%; margin: 0.25em 1;"
 <!--
 style="width: 100%; "
 -->
-| | **Zerspankraft-<br/> komponenten** | | | | | |
+|**Zerspankraftkomponenten** |
 | | Schnittkraft **Fc** in N  | | Passivkraft **Fp** in N | | Vorschubkraft **Ff** in N | |
 |**Versuch** |theoretisch |experimentell |theoretisch |experimentell |theoretisch |experimentell |
 | | | | | | | |
-|**1**| | | | | | |
-|**2**| | | | | | |
-|**3**| | | | | | |
-|**4**| | | | | | |
+|**1.1**| | | | | | |
+|**1.2**| | | | | | |
+|**1.3**| | | | | | |
+|**1.4**| | | | | | |
 | | | | | | | |
-|**5**| | | | | | |
-|**6**| | | | | | |
-|**7**| | | | | | |
-|**8**| | | | | | |
+|**2.1**| | | | | | |
+|**2.2**| | | | | | |
+|**2.3**| | | | | | |
 | | | | | | | |
-|**9**| | | | | | |
-|**10**| | | | | | |
-|**11**| | | | | | |
-|**12**| | | | | | |
+|**2.4**| | | | | | |
+|**2.5**| | | | | | |
+|**2.6**| | | | | | |
+|**2.7**| | | | | | |
+| | | | | | | |
+|**2.8**| | | | | | |
+|**2.9**| | | | | | |
+|**2.10**| | | | | | |
+<br/>
+
+***
+
+{{1-2}}
+***
+
+2/2
+
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 1.1 -1.4 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+
+**Versuch 1.1:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
 
 <br/>
 
-**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 1 -12 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+**Versuch 1.2:**
 
-**Versuch 1.1:** (~~Theor.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-**Versuch 1.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-<br/>
-
-**Versuch 2.1:** (~~Theor.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-**Versuch 2.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 <br/>
 
 
-**Versuch 3.1:** (~~Theor.~~: Fc - Fp - Ff)
+**Versuch 1.3:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-**Versuch 3.2:**  (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-
-<br/>
-
-
-**Versuch 4.1:** (~~Theor.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-**Versuch 4.2:**  (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-
-<br/>
-
----
-
-**Versuch 5.1:** (~~Theor.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-**Versuch 5.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
@@ -197,11 +213,33 @@ style="width: 100%; "
 <br/>
 
 
-**Versuch 6.1:** (~~Theor.~~: Fc - Fp - Ff)
+**Versuch 1.4:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-**Versuch 6.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+***
+
+{{2-3}}
+***
+
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.1 -2.3 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+
+**Versuch 2.1:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
@@ -209,46 +247,117 @@ style="width: 100%; "
 <br/>
 
 
-**Versuch 7.1:** (~~Theor.~~: Fc - Fp - Ff)
+**Versuch 2.2:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-**Versuch 7.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+
+**Versuch 2.3:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 
 <br/>
 
-**Versuch 8.1:** (~~Theor.~~: Fc - Fp - Ff)
+***
+
+{{3-4}}
+***
+
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.4 -2.7 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+
+**Versuch 2.4:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-**Versuch 8.2:**  (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-
-<br/>
-
----
-**Versuch 9.1:** (~~Theor.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-**Versuch 9.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
 
 <br/>
 
+**Versuch 2.5:**
 
-**Versuch 10.1:** (~~Theor.~~: Fc - Fp - Ff)
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-**Versuch 10.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+**Versuch 2.6:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+
+<br/>
+
+**Versuch 2.7:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+***
+
+{{4-5}}
+***
+
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.8 -2.10 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+
+**Versuch 2.8:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+<br/>
+
+
+**Versuch 2.9:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
+
+[[___ ___]]
+
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
@@ -256,26 +365,17 @@ style="width: 100%; "
 <br/>
 
 
-**Versuch 11.1:** (~~Theor.~~: Fc - Fp - Ff)
+**Versuch 2.10:**
+
+(~~**Theor.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-**Versuch 11.2:**  (~~Exp.~~: Fc - Fp - Ff)
+(~~**Exp.**~~: Fc - Fp - Ff)
 
 [[___ ___]]
 
-
-<br/>
-
-
-**Versuch 12.1:** (~~Theor.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
-**Versuch 12.2:**  (~~Exp.~~: Fc - Fp - Ff)
-
-[[___ ___]]
-
+***
 
 # Hilfe zur Protokollerstellung
 
