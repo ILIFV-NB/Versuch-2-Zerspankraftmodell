@@ -1,8 +1,8 @@
 <!--
 
-author:   Nancy Brinkmann, Ronny Stolze
+author:   Nancy Brinkmann, Ronny Stolze, Ronny Brinkmann
 
-email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
+email:    nancy.brinkmann@h2.de, ronny.stolze@h2.de, ronny.brinkmann@h2.de
 
 version:  11.20
 
@@ -44,88 +44,16 @@ style="width: 100%; "
 | | | | | |
 |**2.1**|100 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
 |**2.2**|200|$\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
-|**2.3**|300 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
+|**2.3**|280 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
 | | | | | |
-|**2.4**|$\color{lightgrey} 200$ |0,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
-|**2.5**|$\color{lightgrey} 200$ |1,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
-|**2.6**| $\color{lightgrey} 200$ |1,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
-|**2.7**| $\color{lightgrey} 200$ |2,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
+|**2.4**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,1 |$\color{lightgrey} konstant$ |
+|**2.5**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,4 |$\color{lightgrey} konstant$ |
+|**2.6**| $\color{lightgrey} 200$|$\color{lightgrey} 1,0$ | 0,55 |$\color{lightgrey} konstant$|
 | | | | | |
-|**2.8**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,1 |$\color{lightgrey} konstant$ |
-|**2.9**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,4 |$\color{lightgrey} konstant$ |
-|**2.10**| $\color{lightgrey} 200$|$\color{lightgrey} 1,0$ | 0,55 |$\color{lightgrey} konstant$|
-
-
-<br/>
-~~**Tragen Sie hier bitte hintereinander alle Parameter zu den Versuchen 2.1 - 2.10 ein!**~~
-|$\color{red} Überflüssig\ bis\ auf\ n?$ |
-
-
-**Versuch 2.1:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.2:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.3:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-
----------------
-
-
-**Versuch 2.4:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.5:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.6:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.7:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-
----------------
-
-
-**Versuch 2.8:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.9:** (vc - ap - f - n)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.10:** (vc - ap - f - n)
-
-[[___ ___]]
+|**2.7**|$\color{lightgrey} 200$ |0,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
+|**2.8**|$\color{lightgrey} 200$ |1,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
+|**2.9**| $\color{lightgrey} 200$ |1,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
+|**2.10**| $\color{lightgrey} 200$ |2,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
 
 
 ## Zerspankraftkomponenten
@@ -158,8 +86,8 @@ style="width: 100%; "
 |**2.4**| | | | | | |
 |**2.5**| | | | | | |
 |**2.6**| | | | | | |
-|**2.7**| | | | | | |
 | | | | | | | |
+|**2.7**| | | | | | |
 |**2.8**| | | | | | |
 |**2.9**| | | | | | |
 |**2.10**| | | | | | |
@@ -278,7 +206,7 @@ style="width: 100%; "
 {{3-4}}
 ***
 
-**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.4 -2.7 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.4 -2.6 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
 
 **Versuch 2.4:**
 
@@ -319,6 +247,14 @@ style="width: 100%; "
 
 <br/>
 
+
+***
+
+{{4-5}}
+***
+
+**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.7 -2.10 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
+
 **Versuch 2.7:**
 
 (~~**Theor.**~~: Fc - Fp - Ff)
@@ -331,12 +267,6 @@ style="width: 100%; "
 
 <br/>
 
-***
-
-{{4-5}}
-***
-
-**Tragen Sie hier bitte hintereinander ~~zunächst~~ alle ~~theoretischen~~ Zerspankraftkomponenten zu den Versuchen 2.8 -2.10 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**
 
 **Versuch 2.8:**
 
