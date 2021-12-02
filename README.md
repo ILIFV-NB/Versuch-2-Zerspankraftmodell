@@ -44,11 +44,11 @@ style="width: 100%; "
 | | | | | |
 |**2.1**|100 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
 |**2.2**|200|$\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
-|**2.3**|280 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
+|**2.3**|300 | $\color{lightgrey} 1,0$ |$\color{lightgrey} 0,25$ | |
 | | | | | |
-|**2.4**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,1 |$\color{lightgrey} konstant$ |
-|**2.5**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,4 |$\color{lightgrey} konstant$ |
-|**2.6**| $\color{lightgrey} 200$|$\color{lightgrey} 1,0$ | 0,55 |$\color{lightgrey} konstant$|
+|**2.4**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,15 |$\color{lightgrey} konstant$ |
+|**2.5**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,3 |$\color{lightgrey} konstant$ |
+|**2.6**| $\color{lightgrey} 200$|$\color{lightgrey} 1,0$ | 0,45 |$\color{lightgrey} konstant$|
 | | | | | |
 |**2.7**|$\color{lightgrey} 200$ |0,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
 |**2.8**|$\color{lightgrey} 200$ |1,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
