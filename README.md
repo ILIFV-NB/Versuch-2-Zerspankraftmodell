@@ -4,7 +4,7 @@ author:   Nancy Brinkmann, Ronny Stolze, Ronny Brinkmann
 
 email:    nancy.brinkmann@h2.de, ronny.stolze@h2.de, ronny.brinkmann@h2.de
 
-version:  11.20
+version:  11.22
 
 language: de
 
@@ -50,10 +50,10 @@ style="width: 100%; "
 |**2.5**|$\color{lightgrey} 200$ |$\color{lightgrey} 1,0$ | 0,3 |$\color{lightgrey} konstant$ |
 |**2.6**| $\color{lightgrey} 200$|$\color{lightgrey} 1,0$ | 0,45 |$\color{lightgrey} konstant$|
 | | | | | |
-|**2.7**|$\color{lightgrey} 200$ |0,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
-|**2.8**|$\color{lightgrey} 200$ |1,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
-|**2.9**| $\color{lightgrey} 200$ |1,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
-|**2.10**| $\color{lightgrey} 200$ |2,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
+|**2.7**|$\color{lightgrey} 200$ |2,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
+|**2.8**|$\color{lightgrey} 200$ |1,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$ |
+|**2.9**| $\color{lightgrey} 200$ |1,0 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
+|**2.10**| $\color{lightgrey} 200$ |0,5 |$\color{lightgrey} 0,25$ |$\color{lightgrey} konstant$|
 
 
 ## Zerspankraftkomponenten
@@ -91,7 +91,8 @@ style="width: 100%; "
 |**2.8**| | | | | | |
 |**2.9**| | | | | | |
 |**2.10**| | | | | | |
-<br/>
+
+Tragen Sie Ihre Werte bitte auf den folgenden drei Seiten ein. (am oberen oder unteren Bildschirmrand auf die Pfeile klicken)
 
 ***
 
